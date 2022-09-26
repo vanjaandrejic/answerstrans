@@ -1,0 +1,3 @@
+1.   The difference is that a normal component rerenders every time its parent rerenders, regardless of whether the component's props and state have changed.
+
+A pure component, on the other hand, will not rerender if its parent rerenders, unless the pure component's props (or state) have changed.

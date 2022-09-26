@@ -1,0 +1,4 @@
+3. Babel is a tool that converts newer versions of ECMAScript to ECMAScript5 (ES5). ES5 is the current standard Javascript that is understood by major browsers including IE11. Babel enables developers to use cutting-edge Javascript without worrying about browser support.
+
+Babel is a JavaScript transpiler, meaning it converts a newer version of ECMAScript, such as ES9, to a standard version (ES5).
+

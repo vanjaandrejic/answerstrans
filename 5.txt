@@ -1,0 +1,5 @@
+5. the difference is that:
+
+the first command updates the value of a variable.
+
+the second command sets the state of a variable.
